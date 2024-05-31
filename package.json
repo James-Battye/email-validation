@@ -1,8 +1,8 @@
 {
-  "name": "@yes-chef/your-project",
+  "name": "@yes-chef/yc-email-validation",
   "version": "0.0.0",
   "description": "Project description.",
-  "homepage": "https://github.com/james-battye/your-project#readme",
+  "homepage": "https://github.com/james-battye/yc-email-validation#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/james-battye/your-project.git"
+    "url": "git+https://github.com/james-battye/yc-email-validation.git"
   },
   "bugs": {
-    "url": "https://github.com/james-battye/your-project/issues"
+    "url": "https://github.com/james-battye/yc-email-validation/issues"
   },
   "type": "module",
   "main": "src/index.ts",
