@@ -39,15 +39,3 @@ This script helps B2B startups filter out form submissions and call bookings fro
 
 ## Benefits
 Implementing this email validation script can save your sales team a significant amount of time by ensuring that they only receive leads from potential customers with valid company email addresses. This allows for more efficient research and follow-up using tools like Apollo or other data enrichment tools.
-
-License
-This project is licensed under the MIT License.
-
-Changelog
-Please refer to the CHANGELOG.md for more details on updates and changes.
-
-Contributing
-Contributions are welcome! Please refer to the CONTRIBUTING.md for guidelines.
-
-Support
-For support or any questions, please open an issue in the GitHub repository.
