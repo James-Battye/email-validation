@@ -1,6 +1,6 @@
 # Email Validation for Webflow
 
-This script helps B2B startups filter out form submissions and call bookings from personal email domains (e.g., gmail.com, yahoo.com), ensuring that your sales team only receives leads from valid company email addresses.
+This script helps B2B startups filter out form submissions from personal email domains (e.g., gmail.com, yahoo.com), ensuring that your sales team only receives leads from valid company email addresses.
 
 ## Features
 
