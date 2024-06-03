@@ -1,5 +1,11 @@
 # @yes-chef/yc-email-validation
 
+## 0.0.3
+
+### Patch Changes
+
+- f4e1b0e: Readme
+
 ## 0.0.2
 
 ### Patch Changes
