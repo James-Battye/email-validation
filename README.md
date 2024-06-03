@@ -9,13 +9,13 @@ This script helps B2B startups filter out form submissions from personal email d
 
 ## Installation
 
-1. **Include the Script**: Add the following script to your Webflow site. You can include this in the page settings under the <head> section.
+1. **Include the Script**: Add the following script to your Webflow site. You can include this in the page settings under the HEAD section.
 
     ```html
     <script src="https://cdn.jsdelivr.net/npm/@yes-chef/yc-email-validation@0.0.2/dist/index.js"></script>
     ```
 
-2. **Add the Validation Code**: Add the following script tag to your Webflow page settings, within the "Before </body> tag" section. This script sets up the disallowed domains and custom error message.
+2. **Add the Validation Code**: Add the following script tag to your Webflow page settings, within the "Before BODY tag" section. This script sets up the disallowed domains and custom error message.
 
     ```html
     <script>
